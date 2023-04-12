@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 10%;
+}
+
+.search {
+    background-color: white;
+    color: teal;
+    border: 1px solid teal;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    width: 200px;
+    font-weight: bold;
+}
+
+.plus {
+    background-color: mediumspringgreen;
+    color: white;
+    border-radius: 50%;
+    border: 2px solid mediumspringgreen;
+    margin: 1%;
+    width: 50px;
+    padding: 5px;
+    font-size: xx-large;
+}
+
+.account {
+    background-color: dodgerblue;
+    color: white;
+    box-shadow: 5px 5px black;
+    padding: 1%;
+    margin: 1%;
+    width: 250px;
+}

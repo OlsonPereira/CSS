@@ -1,0 +1,198 @@
+* {
+    font-family: 'Roboto', serif;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-bar {
+    color: white;
+    background-color: black;
+    height: 50px;
+    margin: 0px auto;
+    padding: 0px 400px 0px 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-links {
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    /*color: white;
+    text-decoration: none;
+    margin-right: 20px;  why doesnt this work?*/
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.btn {
+    color: white;
+    background-color: rgb(23, 162, 184);
+    border-color: black;
+    box-shadow: 3px 3px black;
+    padding: 5px 20px;
+    margin-left: 50%;
+}
+
+.container {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.columns {
+    display: flex;
+}
+
+.col-2 {
+    margin: 10px;
+    padding: 10px;
+    flex: 2;
+}
+
+#user {
+    border-radius: 50%;
+    border: 5px solid grey;
+    height: 150px;
+    margin-top: -80px;
+}
+
+.aboutme {
+    border: 2px solid grey;
+    border-top: 125px solid teal;
+    margin: 3% 0;
+    padding: 0% 0% 2% 5%;
+}
+
+.aboutme img {
+    height: 20px;
+}
+
+#state {
+    display: inline;
+    font-size: x-large;
+}
+
+h2 {
+    font-size: xx-large;
+    margin: 20px 0px;
+}
+
+.blue {
+    color: rgb(43, 120, 228);
+}
+
+.black {
+    color: white;
+    background-color: rgb(51, 51, 51);
+    padding: 30px;
+}
+
+.degrees {
+    padding: 10px 0px 0px 30px;
+    border: 2px solid grey;
+}
+
+.degrees p {
+    margin: 5px 0px 10px 0px;
+}
+
+#big {
+    font-size: xx-large;
+}
+
+#light {
+    color: gray;
+}
+
+.col-1 {
+    margin: 10px;
+    padding: 10px;
+    flex: 1;
+}
+
+.black2 {
+    background-color: rgb(51, 51, 51);
+    width: 250px;
+    height: 50px;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#circle {
+    background-color: rgb(204, 204, 204);
+    color: black;
+    border-radius: 50%;
+    height: 30px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+#oval {
+    background-color: rgb(204, 204, 204);
+    color: black;
+    border-radius: 45%;
+    height: 30px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.small {
+    border-radius: 50%;
+    height: 50px;
+    margin: 10px;
+}
+
+.small2 {
+    border-radius: 50%;
+    height: 40px;
+    margin: 10px;
+}
+
+.inline {
+    border: 2px solid grey;
+    width: 250px;
+    height: 150px;
+    padding: 13px;
+}
+
+.inline2 {
+    border: 2px solid grey;
+    width: 250px;
+    height: 275px;
+    padding: 13px;
+}
+
+.line {
+    display: flex;
+    align-items: center;
+}
+
+.last {
+    border: 2px solid grey;
+    width: 100%;
+    margin: 10px 10px 10px -15px;
+    padding: 13px;
+    display: flex;
+    align-items: center;
+}
+
+#move {
+    margin-left: 18px;
+}

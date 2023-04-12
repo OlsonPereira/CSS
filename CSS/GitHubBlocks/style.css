@@ -1,0 +1,50 @@
+h1 {
+    color: grey;
+    text-align: center;
+    font-weight: 800;
+}
+
+p {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.allcat {
+    width: 800px;
+    height: 800px;
+    margin: 0px auto;
+    background-color: grey;
+    padding: 1%;
+}
+
+img {
+    height: 200px;
+}
+
+.topcat {
+    background-color: red;
+    margin: 2%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.middlecat {
+    background-color: orange;
+    margin: 2%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.bottomcat {
+    background-color: yellow;
+    margin: 2%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+

@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    margin: 1%;
+    padding: 1%;
+}
+
+span {
+    color: aqua;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+}
+
+h3 {
+    background-color: skyblue;
+    text-decoration: underline;
+    text-align: end;
+    margin: 1%;
+    padding: 1%;
+}
